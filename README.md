@@ -2,6 +2,7 @@ for_the_greater_good
 ====================
 
 A resource for listing things where we developers can use our coding skills for the greater good!
+If you have any ideas on organisations or things to add to the list, get hold of me over at [http://www.olakarlsson.com](olakarlsson.com) or create a pull request :)
 
 ##Contribute code 
 
