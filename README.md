@@ -50,6 +50,12 @@ Include speaking at UG in this list?
 http://geekgirlmeetup.com/
 
 
+
+###Random Hacks of Kindeness
+Original main site seems down but [Wikipedia](http://en.wikipedia.org/wiki/Random_Hacks_of_Kindness) has som info and links
+Wikipedia article
+
+
 ## Code For ....
 Started with Code For America?
 http://www.codeforamerica.org/about/
