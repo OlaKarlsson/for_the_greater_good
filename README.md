@@ -53,7 +53,7 @@ http://geekgirlmeetup.com/
 
 ###Random Hacks of Kindeness
 Original main site seems down but [Wikipedia](http://en.wikipedia.org/wiki/Random_Hacks_of_Kindness) has som info and links
-Wikipedia article
+and there's a [Facebook page](https://www.facebook.com/RandomHacks) that seems resonably active.
 
 
 ## Code For ....
