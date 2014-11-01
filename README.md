@@ -39,8 +39,11 @@ Mostly in the USA, site also lists a couple UK givecamps. However the main site 
 ###Coder Dojo
 http://coderdojo.com/
 
-####Sweden
+##Sweden
+### Geek Girl Meetups (Swedish)
+[http://geekgirlmeetup.com/](http://geekgirlmeetup.com/)
 
+###Coder Dojo
 Malmö - http://malmo.coderdojo.se/
 
 Lund - http://lund.coderdojo.se/
@@ -48,19 +51,6 @@ Lund - http://lund.coderdojo.se/
 Stockholm - http://coderdojostockholm.se/
 
 Norrköping - http://coderdojonkpg.se/
-
-
-###Usergroups
-
-Include speaking at UG in this list?
-
-
-
-##Aimed at females/girls
-
-### Geek Girl Meetups (Swedish)
-http://geekgirlmeetup.com/
-
 
 ##Germany
 ###Code For Germany
@@ -98,6 +88,20 @@ http://www.codeforamerica.org/brigade/
 
 THE CIVIC TECH ISSUE FINDER
 http://www.codeforamerica.org/geeks/civicissues
+
+
+
+##Aimed at females/girls
+
+
+
+###Usergroups
+
+Include speaking at UG in this list?
+
+
+
+
 
 
 ##Links and resources to be sorted and checked
