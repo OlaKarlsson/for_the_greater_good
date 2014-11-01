@@ -4,24 +4,36 @@ for_the_greater_good
 A resource for listing things where we developers can use our coding skills for the greater good!
 If you have any ideas on organisations or things to add to the list, get hold of me over at [http://www.olakarlsson.com](olakarlsson.com) or create a pull request :)
 
-##Contribute code 
 
-###Global / International
+##Global / International
 Humanitarian Toolbox
 [http://www.htbox.org/](http://www.htbox.org/)
 
 GitHub site at [http://github.org/htbox](http://github.org/htbox) with publically visible projects which at the moment that anyone can contribute to.
 There are more projects coming and they are activly looking for people to lead projects, so if interested contact them!
  
-
-Geeks Without Bounds
+###Geeks Without Bounds
 http://gwob.org/
 
+###Webmaker
+>Mozilla Webmaker creates software, projects and events that promote web literacy through making and sharing. We’re an open source project powered by makers, mentors and community leaders. We’d love you to get involved.
+*Ways to contribute*
+[https://webmaker.org/getinvolved](https://webmaker.org/getinvolved)
+*Contribute code (OSS)*
+https://support.mozilla.org/sv/kb/contribute-webmaker-code
 
-##Help out with not just code
 
-##Give Camps
-http://givecamp.org/
+
+###Hackathons
+
+####Random Hacks of Kindeness
+Original main site seems down but [Wikipedia](http://en.wikipedia.org/wiki/Random_Hacks_of_Kindness) has som info and links
+and there's a [Facebook page](https://www.facebook.com/RandomHacks) that seems resonably active.
+
+####Give Camps
+[http://givecamp.org/](http://givecamp.org/)
+Mostly in the USA, site also lists a couple UK givecamps. However the main site and many of the ones linked seems out of date and no longer being kept up to date.
+
 
 
 ###Coder Dojo
@@ -50,10 +62,31 @@ Include speaking at UG in this list?
 http://geekgirlmeetup.com/
 
 
+##Germany
+###Code For Germany
+[http://codefor.de/](http://codefor.de/)
 
-###Random Hacks of Kindeness
-Original main site seems down but [Wikipedia](http://en.wikipedia.org/wiki/Random_Hacks_of_Kindness) has som info and links
-and there's a [Facebook page](https://www.facebook.com/RandomHacks) that seems resonably active.
+##Poland
+###ePF
+>ePF is one of the most important organizations acting upon
+open and transparent authorities as well as civil engagement.
+We want Poles to take advantage of their rights
+and engage in enhancing their country. 
+[http://epf.org.pl/eng](http://epf.org.pl/eng)
+
+###Code For Poland
+[http://blog.epf.org.pl/2014/02/koduj-dla-polski/](http://blog.epf.org.pl/2014/02/koduj-dla-polski/)
+
+##Ireland
+###Code For Ireland
+[http://codeforireland.com/](http://codeforireland.com/)
+
+##Croatia
+###Code For Croatia
+[http://codeforcroatia.open.hr/](http://codeforcroatia.open.hr/)
+
+###Open Zagreb
+[http://codeforcroatia.open.hr/openzagreb/](http://codeforcroatia.open.hr/openzagreb/)
 
 
 ## Code For ....
@@ -85,10 +118,9 @@ http://www.techsoup.org/
 
 http://benetech.org/
 
-Webmaker
-https://webmaker.org/getinvolved
 
 Socialcoding4good
-BRIDGING THE OPEN SOURCE SOFTWARE, NONPROFIT AND CORPORATE TECH COMMUNITIES, SOCIALCODING4GOOD CONNECTS SOFTWARE DEVELOPMENT PROFESSIONALS WITH OPPORTUNITIES TO VOLUNTEER THEIR TIME AND TECHNICAL TALENT TO ORGANIZATIONS CREATING TECHNOLOGY SOLUTIONS FOR SOCIAL GOOD.
+>BRIDGING THE OPEN SOURCE SOFTWARE, NONPROFIT AND CORPORATE TECH COMMUNITIES, SOCIALCODING4GOOD CONNECTS SOFTWARE DEVELOPMENT PROFESSIONALS WITH OPPORTUNITIES TO VOLUNTEER THEIR TIME AND TECHNICAL TALENT TO ORGANIZATIONS CREATING TECHNOLOGY SOLUTIONS FOR SOCIAL GOOD.
+
 http://www.socialcoding4good.org/home
 
