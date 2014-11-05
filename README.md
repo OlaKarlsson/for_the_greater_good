@@ -34,8 +34,6 @@ and there's a [Facebook page](https://www.facebook.com/RandomHacks) that seems r
 [http://givecamp.org/](http://givecamp.org/)
 Mostly in the USA, site also lists a couple UK givecamps. However the main site and many of the ones linked seems out of date and no longer being kept up to date.
 
-Help people learn, create a free course
-https://www.coursera.org/
 
 ###Coder Dojo
 http://coderdojo.com/
