@@ -23,7 +23,6 @@ http://gwob.org/
 https://support.mozilla.org/sv/kb/contribute-webmaker-code
 
 
-
 ###Hackathons
 
 ####Random Hacks of Kindeness
@@ -34,9 +33,22 @@ and there's a [Facebook page](https://www.facebook.com/RandomHacks) that seems r
 [http://givecamp.org/](http://givecamp.org/)
 Mostly in the USA, site also lists a couple UK givecamps. However the main site and many of the ones linked seems out of date and no longer being kept up to date.
 
+###Khan Academy
+Help by adding some helpful programs for others to learn from at the Khan Academy website
+[https://www.khanacademy.org/computing/computer-programming/guidelines/pjs](https://www.khanacademy.org/computing/computer-programming/guidelines/pjs)
+
+###Build something educational
+For your next hobby project, conside building a educational app/game like [http://en.wikipedia.org/wiki/Get_Water!](Get Water) which educates in a fun way about water scarsity.
 
 ###Coder Dojo
 http://coderdojo.com/
+
+###Sahana Foundation
+Register as a Sahana Service Provider.
+"We foresee that opportunities will be mostly part-time and short-term (~2-3 months), with limited opportunities for full-time/short-term and possibly one or two longer term (up to one year) positions.
+Otherwise, most positions will be staffed virtually/remotely with work done from home office/residences with no travel required. Clear demonstrated experience working independently, virtually and remotely with minimal direct supervision is required."
+
+http://sahanafoundation.org/about-us/opportunities/
 
 ##Sweden
 ### Geek Girl Meetups (Swedish)
