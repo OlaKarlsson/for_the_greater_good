@@ -91,19 +91,6 @@ http://www.codeforamerica.org/geeks/civicissues
 
 
 
-##Aimed at females/girls
-
-
-
-###Usergroups
-
-Include speaking at UG in this list?
-
-
-
-
-
-
 ##Links and resources to be sorted and checked
 
 http://programmers.stackexchange.com/questions/141552/non-profit-technololgy-for-non-profits
