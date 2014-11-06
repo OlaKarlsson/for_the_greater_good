@@ -22,6 +22,9 @@ http://gwob.org/
 *Contribute code (OSS)*
 https://support.mozilla.org/sv/kb/contribute-webmaker-code
 
+###I Am The Cavalry
+"The Cavalry is a grassroots organization that is focused on issues where computer security intersect public safety and human life."
+[https://www.iamthecavalry.org/get-involved/](https://www.iamthecavalry.org/get-involved/)
 
 ###Hackathons
 
