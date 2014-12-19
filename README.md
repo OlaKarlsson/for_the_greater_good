@@ -6,12 +6,27 @@ If you have any ideas on organisations or things to add to the list, get hold of
 
 
 ##Global / International
-Humanitarian Toolbox
+
+###Humanitarian Toolbox
 [http://www.htbox.org/](http://www.htbox.org/)
 
 GitHub site at [http://github.org/htbox](http://github.org/htbox) with publically visible projects which at the moment that anyone can contribute to.
 There are more projects coming and they are activly looking for people to lead projects, so if interested contact them!
  
+###Volunteermatch.org
+From their Website:
+>We bring good people & good causes together
+>Find a cause that lights you up. Get in touch with a nonprofit that needs you. 
+
+They have a option where you can list either local or virtual opportunities and once in there you can drill into CAUSE AREAS and select Computers & Technology as your area.
+[http://www.volunteermatch.org/search/virtual](http://www.volunteermatch.org/search/virtual)
+
+###Idealist.org
+Similar to Volunteermatch, you can search for opportunities to help either locally or remotely. If you for example search for developer with the "Remote results only (worldwide)" option selected, you get a great long list of opportunities where you can help!
+
+[http://www.idealist.org/](http://www.idealist.org/)
+
+
 ###Geeks Without Bounds
 http://gwob.org/
 
